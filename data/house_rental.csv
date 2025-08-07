@@ -1,0 +1,501 @@
+id,area,type,bhk,rent,sq_ft,furnishing,amenities,contact_person,contact_number
+1,Koramangala,Apartment,2,48000,1250,Semi-Furnished,"Gym, Security, Power Backup","Mr. Anand",9123456780
+2,Koramangala,Apartment,3,68000,1700,Fully-Furnished,"Pool, Clubhouse, A/C, Modern Kitchen","Mrs. Iyer",9123456787
+3,Koramangala,Independent House,1,26000,850,Semi-Furnished,"Pet-Friendly, Quiet Lane","Ms. D'souza",9123456795
+4,Koramangala,Studio,1,24000,550,Fully-Furnished,"Security, Near Forum Mall","Mr. Alex",9123456720
+5,Koramangala,Apartment,3,75000,1800,Semi-Furnished,"Gym, Pool, Kids Play Area","Mr. Sharma",9123456701
+6,Koramangala,Apartment,2,52000,1300,Fully-Furnished,"Lift, Security, Covered Parking","Ms. Menon",9123456702
+7,Koramangala,Independent House,4,90000,2500,Unfurnished,"Garden, Terrace, Pet-Friendly","Mr. Gupta",9123456703
+8,Koramangala,Apartment,1,30000,700,Fully-Furnished,"A/C, Power Backup, Near Sony World","Mr. Singh",9123456704
+9,Koramangala,Apartment,2,46000,1150,Unfurnished,"New Construction, Balcony","Mrs. Rao",9123456705
+10,Koramangala,Studio,1,21000,500,Semi-Furnished,"Basic Amenities, Near Bus Stop","Mr. Kumar",9123456706
+11,Koramangala,Apartment,3,65000,1600,Semi-Furnished,"Gated Community, 24/7 Security","Ms. Priya",9123456707
+12,Koramangala,Apartment,2,55000,1400,Fully-Furnished,"Modular Kitchen, Wardrobes, Geysers","Mr. John",9123456708
+13,Koramangala,Independent House,3,70000,2000,Semi-Furnished,"Car Parking, Kaveri Water","Ms. Reddy",9123456709
+14,Koramangala,Apartment,2,49000,1280,Semi-Furnished,"Gym, Lift","Mr. Verma",9123456710
+15,Koramangala,Apartment,4,110000,2800,Semi-Furnished,"Luxury Complex, Pool, Tennis Court","Mrs. Khan",9123456711
+16,Koramangala,Studio,1,25000,600,Fully-Furnished,"Includes WiFi and Maintenance","Mr. Das",9123456712
+17,Koramangala,Apartment,2,51000,1350,Unfurnished,"Spacious Hall, Good Ventilation","Ms. Patil",9123456713
+18,Koramangala,Independent House,2,45000,1500,Unfurnished,"Ground Floor, Pet-Friendly","Mr. Hegde",9123456714
+19,Koramangala,Apartment,3,69000,1750,Semi-Furnished,"Near Oasis Mall, Power Backup","Mrs. Bhat",9123456715
+20,Koramangala,Apartment,1,29000,750,Semi-Furnished,"With Balcony, Security","Mr. Pillai",9123456716
+21,Koramangala,Apartment,2,53000,1320,Fully-Furnished,"Modern Decor, Prime Location","Mr. Sandeep",9123450001
+22,Koramangala,Independent House,5,125000,3200,Semi-Furnished,"Large Bungalow, 3 Car Parks","Mrs. Mehta",9123450002
+23,Koramangala,Apartment,3,72000,1850,Semi-Furnished,"Pool View, High Floor","Mr. Krishnan",9123450003
+24,Koramangala,Studio,1,26000,620,Fully-Furnished,"All-inclusive rent, near St. John's","Ms. Pooja",9123450004
+25,Koramangala,Apartment,2,50000,1280,Unfurnished,"Brand new building, be the first tenant","Mr. Girish",9123450005
+26,Koramangala,Apartment,3,67000,1650,Semi-Furnished,"With study room, vastu compliant","Mrs. Shweta",9123450006
+27,Koramangala,Independent House,3,78000,2200,Fully-Furnished,"Classic home with modern interiors","Mr. Balaji",9123450007
+28,Koramangala,Apartment,1,32000,800,Fully-Furnished,"Luxury studio, with bathtub","Ms. Anusha",9123450008
+29,Koramangala,Apartment,2,47000,1200,Semi-Furnished,"Near 5th Block, walkable to restaurants","Mrs. Divya",9123450009
+30,Koramangala,Studio,1,22000,520,Unfurnished,"Affordable studio in a prime location","Mr. Naveen",9123450010
+31,Koramangala,Apartment,3,70000,1800,Semi-Furnished,"Good society, ideal for families","Mrs. Lakshmi",9123450011
+32,Koramangala,Apartment,2,54000,1380,Fully-Furnished,"Includes housekeeping service","Ms. Ramya",9123450012
+33,Koramangala,Independent House,4,95000,2700,Semi-Furnished,"With a home office space","Mr. Vinay",9123450013
+34,Koramangala,Apartment,2,48500,1260,Semi-Furnished,"Vastu Compliant, East Facing","Ms. Sneha",9123450014
+35,Koramangala,Apartment,3,73000,1900,Unfurnished,"Penthouse with private terrace","Mr. Chetan",9123450015
+36,Koramangala,Studio,1,27000,650,Fully-Furnished,"Spacious studio with balcony","Ms. Shilpa",9123450016
+37,Koramangala,Independent House,2,47000,1600,Semi-Furnished,"First floor with separate entrance","Mr. Santosh",9123450017
+38,Koramangala,Apartment,3,66000,1680,Semi-Furnished,"Good natural light, corner flat","Mrs. Geeta",9123450018
+39,Koramangala,Apartment,2,56000,1420,Fully-Furnished,"Premium building, top-notch amenities","Mr. Manjunath",9123450019
+40,Koramangala,Apartment,1,31000,780,Semi-Furnished,"Large 1BHK, suitable for couples","Ms. Archana",9123450020
+41,Koramangala,Apartment,2,49500,1270,Semi-Furnished,"Near Jyoti Nivas College","Mr. Kiran",9123450021
+42,Koramangala,Independent House,3,74000,2100,Unfurnished,"With servant's room and bathroom","Mrs. Suma",9123450022
+43,Koramangala,Apartment,4,115000,2900,Fully-Furnished,"Duplex apartment, stunning views","Mr. Rajesh",9123450023
+44,Koramangala,Studio,1,23000,580,Semi-Furnished,"Well-maintained and clean","Ms. Deepa",9123450024
+45,Koramangala,Apartment,2,52500,1310,Semi-Furnished,"Family building, no bachelors","Mr. Praveen",9123450025
+46,Koramangala,Apartment,3,68000,1720,Semi-Furnished,"Close to Wipro Park","Mrs. Usha",9123450026
+47,Koramangala,Independent House,2,46000,1550,Fully-Furnished,"Cozy home with all furnishings","Mr. Ravi",9123450027
+48,Koramangala,Apartment,1,28000,720,Unfurnished,"Basic 1BHK in a good location","Ms. Rashmi",9123450028
+49,Koramangala,Apartment,2,53500,1360,Semi-Furnished,"With modular kitchen and wardrobes","Mr. Ashok",9123450029
+50,Koramangala,Studio,1,24500,590,Fully-Furnished,"Plug and play, just move in","Ms. Prema",9123450030
+51,HSR Layout,Apartment,2,38000,1250,Semi-Furnished,"Lift, Security, Parking","Ms. Sunita",9123456781
+52,HSR Layout,Apartment,3,55000,1700,Semi-Furnished,"Park, Kids Play Area, Security","Mr. Reddy",9123456788
+53,HSR Layout,Studio,1,20000,550,Unfurnished,"Near BDA Complex, Main Road Facing","Mr. Gowda",9123456796
+54,HSR Layout,Apartment,2,42000,1300,Fully-Furnished,"Gym, Clubhouse, Pool","Ms. Khan",9123456721
+55,HSR Layout,Independent House,4,70000,2600,Unfurnished,"Garden, Ample Parking, Terrace","Mr. Narayan",9123456722
+56,HSR Layout,Apartment,3,52000,1600,Semi-Furnished,"Gated Community, Power Backup","Mrs. Murthy",9123456723
+57,HSR Layout,Apartment,1,22000,700,Semi-Furnished,"With Kitchenette, Near HSR Club","Mr. Prasad",9123456724
+58,HSR Layout,Apartment,2,36000,1200,Unfurnished,"New Building, Good Light and Ventilation","Ms. Joshi",9123456725
+59,HSR Layout,Independent House,3,60000,2000,Semi-Furnished,"Duplex, Car Parking, Balcony","Mr. Shenoy",9123456726
+60,HSR Layout,Studio,1,18000,500,Unfurnished,"Basic, For Bachelors","Mr. Ramesh",9123456727
+61,HSR Layout,Apartment,3,58000,1800,Fully-Furnished,"All amenities, Ready to move in","Mrs. Desai",9123456728
+62,HSR Layout,Apartment,2,40000,1280,Semi-Furnished,"Near Parangipalya Park, Security","Ms. Begum",9123456729
+63,HSR Layout,Independent House,5,95000,3200,Semi-Furnished,"Spacious, For Large Families or Company Guest House","Mr. Agarwal",9123456730
+64,HSR Layout,Apartment,2,39000,1260,Semi-Furnished,"Lift, Security","Ms. Chawla",9123456731
+65,HSR Layout,Apartment,3,54000,1650,Unfurnished,"Bright and Airy, 2 Balconies","Mr. Krish",9123456732
+66,HSR Layout,Studio,1,21000,600,Fully-Furnished,"Includes all bills, flexible deposit","Ms. Verma",9123456733
+67,HSR Layout,Independent House,2,45000,1500,Semi-Furnished,"Ground floor with small garden","Mr. Naidu",9123456734
+68,HSR Layout,Apartment,3,56000,1750,Semi-Furnished,"Pool view, Gym, Clubhouse","Mrs. Singh",9123456735
+69,HSR Layout,Apartment,2,37000,1220,Semi-Furnished,"Near 27th Main Road, Good Connectivity","Mr. Tiwari",9123456736
+70,HSR Layout,Apartment,1,24000,750,Fully-Furnished,"Compact and modern, for singles/couples","Ms. George",9123456737
+71,HSR Layout,Apartment,2,41000,1280,Fully-Furnished,"Modern apartment with smart home features","Mr. Sandeep",9123450031
+72,HSR Layout,Independent House,4,72000,2700,Semi-Furnished,"With a large terrace garden","Mrs. Mehta",9123450032
+73,HSR Layout,Apartment,3,57000,1720,Semi-Furnished,"Corner flat with extra windows","Mr. Krishnan",9123450033
+74,HSR Layout,Studio,1,22000,610,Fully-Furnished,"Serviced apartment style, weekly cleaning","Ms. Pooja",9123450034
+75,HSR Layout,Apartment,2,38500,1240,Unfurnished,"Close to NIFT college","Mr. Girish",9123450035
+76,HSR Layout,Apartment,3,53000,1620,Semi-Furnished,"Vastu compliant, east facing entrance","Mrs. Shweta",9123450036
+77,HSR Layout,Independent House,3,62000,2100,Semi-Furnished,"With solar water heater","Mr. Balaji",9123450037
+78,HSR Layout,Apartment,1,23000,720,Fully-Furnished,"Well-designed interiors","Ms. Anusha",9123450038
+79,HSR Layout,Apartment,2,39500,1270,Semi-Furnished,"Family preferred building","Mrs. Divya",9123450039
+80,HSR Layout,Studio,1,19000,530,Unfurnished,"Affordable and clean","Mr. Naveen",9123450040
+81,HSR Layout,Apartment,3,59000,1850,Semi-Furnished,"Good society with strong security","Mrs. Lakshmi",9123450041
+82,HSR Layout,Apartment,2,43000,1320,Fully-Furnished,"Top floor with excellent view","Ms. Ramya",9123450042
+83,HSR Layout,Independent House,4,75000,2800,Unfurnished,"With a separate servant room","Mr. Vinay",9123450043
+84,HSR Layout,Apartment,2,40500,1290,Semi-Furnished,"Near BDA shopping complex","Ms. Sneha",9123450044
+85,HSR Layout,Apartment,3,55000,1680,Unfurnished,"Spacious kitchen with utility area","Mr. Chetan",9123450045
+86,HSR Layout,Studio,1,21500,620,Fully-Furnished,"Modern studio with all white goods","Ms. Shilpa",9123450046
+87,HSR Layout,Independent House,2,46000,1550,Semi-Furnished,"With a private parking garage","Mr. Santosh",9123450047
+88,HSR Layout,Apartment,3,57000,1780,Semi-Furnished,"Kids play area, walking track","Mrs. Geeta",9123450048
+89,HSR Layout,Apartment,2,41500,1310,Fully-Furnished,"Tastefully decorated","Mr. Manjunath",9123450049
+90,HSR Layout,Apartment,1,25000,780,Semi-Furnished,"Large 1BHK with balcony","Ms. Archana",9123450050
+91,HSR Layout,Apartment,2,38000,1230,Semi-Furnished,"Well-managed apartment complex","Mr. Kiran",9123450051
+92,HSR Layout,Independent House,3,63000,2150,Unfurnished,"Recently renovated","Mrs. Suma",9123450052
+93,HSR Layout,Apartment,4,80000,2200,Semi-Furnished,"Combined 2 apartments, very large","Mr. Rajesh",9123450053
+94,HSR Layout,Studio,1,20500,580,Semi-Furnished,"Clean and simple","Ms. Deepa",9123450054
+95,HSR Layout,Apartment,2,39000,1260,Semi-Furnished,"Close to Outer Ring Road","Mr. Praveen",9123450055
+96,HSR Layout,Apartment,3,56000,1700,Semi-Furnished,"Good for corporate lease","Mrs. Usha",9123450056
+97,HSR Layout,Independent House,2,47000,1600,Fully-Furnished,"Charming house with a patio","Mr. Ravi",9123450057
+98,HSR Layout,Apartment,1,23500,740,Unfurnished,"Basic and affordable 1BHK","Ms. Rashmi",9123450058
+99,HSR Layout,Apartment,2,42500,1300,Semi-Furnished,"With modular kitchen","Mr. Ashok",9123450059
+100,HSR Layout,Studio,1,22500,630,Fully-Furnished,"Everything included, just move in","Ms. Prema",9123450060
+101,Indiranagar,Independent House,4,85000,2400,Unfurnished,"Garden, Pet-Friendly, Terrace","Mr. Varma",9123456782
+102,Indiranagar,Studio,1,30000,600,Fully-Furnished,"A/C, Power Backup, Near Metro","Ms. Chatterjee",9123456790
+103,Indiranagar,Apartment,3,75000,1800,Fully-Furnished,"Luxury interiors, Prime location on 100ft Road","Mr. Kapoor",9123456738
+104,Indiranagar,Apartment,2,60000,1300,Semi-Furnished,"Near CMH Road, Metro access, Lift","Mrs. Alva",9123456739
+105,Indiranagar,Independent House,3,80000,2200,Semi-Furnished,"Quiet lane, Spacious rooms, Parking","Mr. Banerjee",9123456740
+106,Indiranagar,Apartment,2,58000,1250,Unfurnished,"Modern building, great view","Ms. Saxena",9123456741
+107,Indiranagar,Studio,1,28000,550,Semi-Furnished,"Compact, for single professional","Mr. Mehta",9123456742
+108,Indiranagar,Apartment,3,72000,1750,Semi-Furnished,"Gated complex, Security, Gym","Mrs. Reddy",9123456743
+109,Indiranagar,Independent House,2,65000,1600,Fully-Furnished,"Classic bungalow style, with garden","Mr. Mathews",9123456744
+110,Indiranagar,Apartment,1,35000,800,Fully-Furnished,"Stylish and modern, near EGL","Ms. Sharma",9123456745
+111,Indiranagar,Apartment,4,120000,3000,Semi-Furnished,"Penthouse, Terrace, Luxury amenities","Mr. Oberoi",9123456746
+112,Indiranagar,Apartment,2,62000,1350,Semi-Furnished,"Close to Defence Colony, Quiet area","Mrs. Kumar",9123456747
+113,Indiranagar,Independent House,5,150000,4000,Unfurnished,"Large bungalow, suitable for expats or large families","Mr. Choudhary",9123456748
+114,Indiranagar,Studio,1,27000,580,Semi-Furnished,"Good location, basic amenities","Ms. Nair",9123456749
+115,Indiranagar,Apartment,3,78000,1900,Semi-Furnished,"Spacious, with servant quarters, Pool","Mr. Shah",9123456750
+116,Indiranagar,Apartment,2,59000,1280,Fully-Furnished,"Ready to move, all inclusive","Mrs. Bose",9123456751
+117,Indiranagar,Independent House,3,77000,2100,Unfurnished,"Ample natural light, 2 car parks","Mr. Iyer",9123456752
+118,Indiranagar,Apartment,1,33000,750,Semi-Furnished,"Modern apartment, near 12th Main","Ms. Dasgupta",9123456753
+119,Indiranagar,Apartment,2,61000,1320,Semi-Furnished,"Gym, Security, Lift","Mr. Bhatia",9123456754
+120,Indiranagar,Studio,1,29000,620,Fully-Furnished,"Well-maintained, prime location","Mrs. Pereira",9123456755
+121,Indiranagar,Apartment,2,63000,1380,Semi-Furnished,"Newly painted, available immediately","Mr. Sandeep",9123450061
+122,Indiranagar,Independent House,4,92000,2600,Semi-Furnished,"With a beautiful terrace garden","Mrs. Mehta",9123450062
+123,Indiranagar,Apartment,3,77000,1850,Fully-Furnished,"Designer interiors, high-end fittings","Mr. Krishnan",9123450063
+124,Indiranagar,Studio,1,31000,650,Fully-Furnished,"Luxury studio with kitchenette","Ms. Pooja",9123450064
+125,Indiranagar,Apartment,2,57000,1230,Unfurnished,"Bright and airy corner apartment","Mr. Girish",9123450065
+126,Indiranagar,Apartment,3,74000,1820,Semi-Furnished,"Close to Domlur, easy access to ORR","Mrs. Shweta",9123450066
+127,Indiranagar,Independent House,3,82000,2300,Semi-Furnished,"With a dedicated home office room","Mr. Balaji",9123450067
+128,Indiranagar,Apartment,1,34000,780,Fully-Furnished,"Perfect for a single person or couple","Ms. Anusha",9123450068
+129,Indiranagar,Apartment,2,64000,1400,Semi-Furnished,"Family oriented building, very safe","Mrs. Divya",9123450069
+130,Indiranagar,Studio,1,26000,540,Unfurnished,"Basic studio in a prime lane","Mr. Naveen",9123450070
+131,Indiranagar,Apartment,3,79000,1950,Semi-Furnished,"Large living room and bedrooms","Mrs. Lakshmi",9123450071
+132,Indiranagar,Apartment,2,61000,1330,Fully-Furnished,"Includes high-speed internet","Ms. Ramya",9123450072
+133,Indiranagar,Independent House,4,98000,2800,Unfurnished,"Recently renovated with modern bathrooms","Mr. Vinay",9123450073
+134,Indiranagar,Apartment,2,60000,1300,Semi-Furnished,"Vastu compliant, east facing","Ms. Sneha",9123450074
+135,Indiranagar,Apartment,3,76000,1880,Unfurnished,"Penthouse with 2 terraces","Mr. Chetan",9123450075
+136,Indiranagar,Studio,1,32000,680,Fully-Furnished,"Spacious and luxurious studio","Ms. Shilpa",9123450076
+137,Indiranagar,Independent House,2,68000,1700,Semi-Furnished,"With a private garden and parking","Mr. Santosh",9123450077
+138,Indiranagar,Apartment,3,73000,1800,Semi-Furnished,"Good security, 24/7 water","Mrs. Geeta",9123450078
+139,Indiranagar,Apartment,2,65000,1450,Fully-Furnished,"High floor with amazing city view","Mr. Manjunath",9123450079
+140,Indiranagar,Apartment,1,36000,820,Semi-Furnished,"Very large 1BHK with separate dining area","Ms. Archana",9123450080
+141,Indiranagar,Apartment,2,62500,1360,Semi-Furnished,"Near the metro station","Mr. Kiran",9123450081
+142,Indiranagar,Independent House,3,81000,2250,Unfurnished,"With a modular kitchen","Mrs. Suma",9123450082
+143,Indiranagar,Apartment,4,125000,3100,Fully-Furnished,"Duplex penthouse, fully loaded","Mr. Rajesh",9123450083
+144,Indiranagar,Studio,1,28500,590,Semi-Furnished,"Clean, well-lit studio","Ms. Deepa",9123450084
+145,Indiranagar,Apartment,2,59500,1290,Semi-Furnished,"Ideal for small families","Mr. Praveen",9123450085
+146,Indiranagar,Apartment,3,77000,1900,Semi-Furnished,"Close to New Horizon School","Mrs. Usha",9123450086
+147,Indiranagar,Independent House,2,67000,1650,Fully-Furnished,"Charming old house, well maintained","Mr. Ravi",9123450087
+148,Indiranagar,Apartment,1,32000,740,Unfurnished,"Basic 1BHK in a quiet lane","Ms. Rashmi",9123450088
+149,Indiranagar,Apartment,2,63500,1380,Semi-Furnished,"With 2 balconies","Mr. Ashok",9123450089
+150,Indiranagar,Studio,1,30500,630,Fully-Furnished,"Includes weekly cleaning","Ms. Prema",9123450090
+151,Jayanagar,Apartment,3,48000,1500,Semi-Furnished,"Security, Lift, Kaveri Water","Mr. Hegde",9123456783
+152,Jayanagar,Independent House,5,120000,3500,Unfurnished,"Large Terrace, Solar Heater, Garage","Mr. Bhat",9123456791
+153,Jayanagar,Apartment,2,38000,1200,Semi-Furnished,"Near 4th Block Complex, Family friendly","Mrs. Rao",9123456756
+154,Jayanagar,Independent House,3,55000,1800,Unfurnished,"Classic home with garden space","Mr. Murthy",9123456757
+155,Jayanagar,Apartment,2,40000,1250,Fully-Furnished,"Ready to occupy, near park","Ms. Shenoy",9123456758
+156,Jayanagar,Apartment,4,80000,2200,Semi-Furnished,"Spacious, good for large families, Lift","Mr. Adiga",9123456759
+157,Jayanagar,Independent House,2,42000,1400,Semi-Furnished,"Ground floor, quiet residential street","Mrs. Kamath",9123456760
+158,Jayanagar,Apartment,1,25000,800,Semi-Furnished,"Compact, near South End Circle","Mr. Pai",9123456761
+159,Jayanagar,Apartment,3,50000,1600,Unfurnished,"Well-ventilated, 2 balconies","Ms. Holla",9123456762
+160,Jayanagar,Independent House,6,150000,4500,Semi-Furnished,"Mansion-like, with lawn and servant quarters","Mr. Shetty",9123456763
+161,Jayanagar,Apartment,2,39000,1220,Semi-Furnished,"With Pooja room, Kaveri water","Mrs. Kulkarni",9123456764
+162,Jayanagar,Studio,1,20000,500,Unfurnished,"Basic, for students or bachelors","Mr. Nayak",9123456765
+163,Jayanagar,Apartment,3,52000,1650,Semi-Furnished,"Gated society, 24/7 security","Mr. Joshi",9123456766
+164,Jayanagar,Independent House,4,75000,2500,Semi-Furnished,"Duplex house with terrace","Mrs. Lokesh",9123456767
+165,Jayanagar,Apartment,2,41000,1280,Fully-Furnished,"Modern interiors, near metro station","Ms. Prasad",9123456768
+166,Jayanagar,Apartment,3,49000,1550,Semi-Furnished,"Good construction quality, Lift","Mr. Bhandary",9123456769
+167,Jayanagar,Independent House,3,58000,1900,Unfurnished,"Ample parking, close to market","Mrs. Acharya",9123456770
+168,Jayanagar,Apartment,2,37000,1180,Unfurnished,"Spacious hall, good for families","Mr. Shastry",9123456771
+169,Jayanagar,Apartment,1,26000,850,Fully-Furnished,"Includes all amenities, prime location","Ms. Upadhyay",9123456772
+170,Jayanagar,Apartment,3,51000,1620,Semi-Furnished,"Security, Power Backup","Mr. Kini",9123456773
+171,Jayanagar,Apartment,2,42000,1300,Semi-Furnished,"Top floor with good view","Mr. Sandeep",9123450091
+172,Jayanagar,Independent House,4,82000,2600,Semi-Furnished,"With a study room and balcony","Mrs. Mehta",9123450092
+173,Jayanagar,Apartment,3,53000,1700,Fully-Furnished,"Well-maintained society with park","Mr. Krishnan",9123450093
+174,Jayanagar,Studio,1,22000,580,Fully-Furnished,"Compact and cozy","Ms. Pooja",9123450094
+175,Jayanagar,Apartment,2,38500,1230,Unfurnished,"Close to RV College","Mr. Girish",9123450095
+176,Jayanagar,Apartment,3,54000,1750,Semi-Furnished,"Vastu compliant, north facing","Mrs. Shweta",9123450096
+177,Jayanagar,Independent House,3,60000,2000,Semi-Furnished,"With solar water heater and parking","Mr. Balaji",9123450097
+178,Jayanagar,Apartment,1,27000,880,Fully-Furnished,"Spacious 1BHK with modern kitchen","Ms. Anusha",9123450098
+179,Jayanagar,Apartment,2,40000,1260,Semi-Furnished,"Family building, quiet neighbors","Mrs. Divya",9123450099
+180,Jayanagar,Studio,1,19000,480,Unfurnished,"Affordable studio near bus depot","Mr. Naveen",9123450100
+181,Jayanagar,Apartment,3,56000,1800,Semi-Furnished,"Good for families with children","Mrs. Lakshmi",9123450101
+182,Jayanagar,Apartment,2,43000,1320,Fully-Furnished,"Includes internet and DTH","Ms. Ramya",9123450102
+183,Jayanagar,Independent House,4,85000,2700,Unfurnished,"Recently painted, ready for possession","Mr. Vinay",9123450103
+184,Jayanagar,Apartment,2,41000,1280,Semi-Furnished,"Near Ragigudda Temple","Ms. Sneha",9123450104
+185,Jayanagar,Apartment,3,55000,1780,Unfurnished,"Penthouse with private garden space","Mr. Chetan",9123450105
+186,Jayanagar,Studio,1,23000,600,Fully-Furnished,"Modern studio with all amenities","Ms. Shilpa",9123450106
+187,Jayanagar,Independent House,2,44000,1500,Semi-Furnished,"With a covered car park","Mr. Santosh",9123450107
+188,Jayanagar,Apartment,3,54000,1720,Semi-Furnished,"Good security, 24/7 Kaveri water","Mrs. Geeta",9123450108
+189,Jayanagar,Apartment,2,45000,1350,Fully-Furnished,"High floor with excellent ventilation","Mr. Manjunath",9123450109
+190,Jayanagar,Apartment,1,28000,900,Semi-Furnished,"Very large 1BHK with 2 balconies","Ms. Archana",9123450110
+191,Jayanagar,Apartment,2,41500,1290,Semi-Furnished,"Close to the main market","Mr. Kiran",9123450111
+192,Jayanagar,Independent House,3,62000,2100,Unfurnished,"With a modular kitchen setup","Mrs. Suma",9123450112
+193,Jayanagar,Apartment,4,88000,2400,Fully-Furnished,"Duplex apartment, ideal for expats","Mr. Rajesh",9123450113
+194,Jayanagar,Studio,1,21000,560,Semi-Furnished,"Clean and well-maintained","Ms. Deepa",9123450114
+195,Jayanagar,Apartment,2,39500,1250,Semi-Furnished,"Ideal for small families","Mr. Praveen",9123450115
+196,Jayanagar,Apartment,3,57000,1850,Semi-Furnished,"Close to National College","Mrs. Usha",9123450116
+197,Jayanagar,Independent House,2,46000,1600,Fully-Furnished,"Charming house with a small backyard","Mr. Ravi",9123450117
+198,Jayanagar,Apartment,1,24000,780,Unfurnished,"Basic 1BHK in a quiet lane","Ms. Rashmi",9123450118
+199,Jayanagar,Apartment,2,43500,1330,Semi-Furnished,"With 2 balconies and good view","Mr. Ashok",9123450119
+200,Jayanagar,Studio,1,22500,590,Fully-Furnished,"All inclusive rent","Ms. Prema",9123450120
+201,Whitefield,Apartment,2,35000,1180,Fully-Furnished,"Pool, Clubhouse, Gym, Security","Ms. Deepa",9123456784
+202,Whitefield,Villa,4,95000,3000,Semi-Furnished,"Gated Community, Private Garden, Pool","Mr. Malhotra",9123456789
+203,Whitefield,Apartment,3,45000,1750,Unfurnished,"New Construction, Power Backup","Mr. Krishnan",9123456797
+204,Whitefield,Apartment,2,32000,1100,Semi-Furnished,"Near ITPL, Lift, Security","Mrs. Sharma",9123456800
+205,Whitefield,Apartment,3,48000,1800,Semi-Furnished,"In a large society, all amenities","Mr. Gupta",9123456801
+206,Whitefield,Studio,1,18000,600,Fully-Furnished,"Ideal for single tech professional","Ms. Singh",9123456802
+207,Whitefield,Apartment,2,34000,1150,Unfurnished,"Spacious, near Forum Shantiniketan Mall","Mr. Kumar",9123456803
+208,Whitefield,Villa,3,75000,2400,Semi-Furnished,"Private terrace, garden, security","Mrs. Menon",9123456804
+209,Whitefield,Apartment,3,50000,1900,Fully-Furnished,"Luxury fittings, pool view","Mr. Nair",9123456805
+210,Whitefield,Apartment,1,22000,750,Semi-Furnished,"Good for couples, near bus stop","Ms. Roy",9123456806
+211,Whitefield,Apartment,2,36000,1200,Semi-Furnished,"Clubhouse, Gym, Swimming Pool","Mr. Verma",9123456807
+212,Whitefield,Studio,1,16000,550,Unfurnished,"Affordable, basic amenities","Mrs. Das",9123456808
+213,Whitefield,Apartment,3,47000,1850,Semi-Furnished,"Close to Phoenix Marketcity, Lift","Mr. Iyer",9123456809
+214,Whitefield,Villa,5,130000,4000,Semi-Furnished,"Premium community, all modern amenities","Ms. Reddy",9123456810
+215,Whitefield,Apartment,2,33000,1120,Unfurnished,"Good ventilation, 24/7 water","Mr. Shah",9123456811
+216,Whitefield,Apartment,3,49000,1880,Fully-Furnished,"Move-in ready, includes maintenance","Mrs. Patel",9123456812
+217,Whitefield,Apartment,2,37000,1250,Semi-Furnished,"Near Manipal Hospital, Security","Mr. Mishra",9123456813
+218,Whitefield,Studio,1,19000,620,Semi-Furnished,"With kitchenette, near tech park back gate","Ms. Agarwal",9123456814
+219,Whitefield,Apartment,3,51000,1950,Semi-Furnished,"Spacious rooms, power backup","Mr. Bose",9123456815
+220,Whitefield,Apartment,2,38000,1280,Fully-Furnished,"Modern decor, close to shopping","Mrs. Jain",9123456816
+221,Whitefield,Apartment,2,35500,1190,Semi-Furnished,"Family friendly society","Mr. Sandeep",9123450121
+222,Whitefield,Villa,4,98000,3100,Unfurnished,"With a dedicated study room","Mrs. Mehta",9123450122
+223,Whitefield,Apartment,3,46000,1780,Semi-Furnished,"Good community, active social club","Mr. Krishnan",9123450123
+224,Whitefield,Studio,1,18500,610,Fully-Furnished,"Compact and convenient","Ms. Pooja",9123450124
+225,Whitefield,Apartment,2,32500,1110,Unfurnished,"Close to Hope Farm Junction","Mr. Girish",9123450125
+226,Whitefield,Apartment,3,48500,1820,Semi-Furnished,"East facing, Vastu compliant","Mrs. Shweta",9123450126
+227,Whitefield,Villa,3,78000,2500,Semi-Furnished,"With a beautiful lawn","Mr. Balaji",9123450127
+228,Whitefield,Apartment,1,23000,780,Fully-Furnished,"Includes high-speed Wi-Fi","Ms. Anusha",9123450128
+229,Whitefield,Apartment,2,34500,1160,Semi-Furnished,"Near Inorbit Mall","Mrs. Divya",9123450129
+230,Whitefield,Studio,1,17000,580,Unfurnished,"Basic and affordable","Mr. Naveen",9123450130
+231,Whitefield,Apartment,3,52000,1980,Semi-Furnished,"Very spacious, ideal for WFH setups","Mrs. Lakshmi",9123450131
+232,Whitefield,Apartment,2,39000,1300,Fully-Furnished,"Top floor, great view and breeze","Ms. Ramya",9123450132
+233,Whitefield,Villa,4,105000,3300,Unfurnished,"Newly built villa","Mr. Vinay",9123450133
+234,Whitefield,Apartment,2,36500,1230,Semi-Furnished,"Close to Vydehi Hospital","Ms. Sneha",9123450134
+235,Whitefield,Apartment,3,50000,1900,Unfurnished,"Penthouse apartment with large terrace","Mr. Chetan",9123450135
+236,Whitefield,Studio,1,20000,650,Fully-Furnished,"Modern and stylish studio","Ms. Shilpa",9123450136
+237,Whitefield,Villa,3,80000,2600,Semi-Furnished,"With covered parking for 2 cars","Mr. Santosh",9123450137
+238,Whitefield,Apartment,3,49000,1860,Semi-Furnished,"Good security, ideal for families","Mrs. Geeta",9123450138
+239,Whitefield,Apartment,2,40000,1320,Fully-Furnished,"Premium furnishings and fittings","Mr. Manjunath",9123450139
+240,Whitefield,Apartment,1,24000,800,Semi-Furnished,"Large 1BHK with separate utility area","Ms. Archana",9123450140
+241,Whitefield,Apartment,2,35000,1180,Semi-Furnished,"Near GR Tech Park","Mr. Kiran",9123450141
+242,Whitefield,Villa,4,97000,3150,Unfurnished,"With a modular kitchen installed","Mrs. Suma",9123450142
+243,Whitefield,Apartment,3,53000,2000,Fully-Furnished,"Very spacious, includes all appliances","Mr. Rajesh",9123450143
+244,Whitefield,Studio,1,19500,630,Semi-Furnished,"Clean and bright","Ms. Deepa",9123450144
+245,Whitefield,Apartment,2,33500,1140,Semi-Furnished,"Good for bachelors or small families","Mr. Praveen",9123450145
+246,Whitefield,Apartment,3,51000,1920,Semi-Furnished,"Near Gopalan International School","Mrs. Usha",9123450146
+247,Whitefield,Villa,3,82000,2700,Fully-Furnished,"Beautifully decorated villa","Mr. Ravi",9123450147
+248,Whitefield,Apartment,1,21000,730,Unfurnished,"Basic 1BHK, affordable","Ms. Rashmi",9123450148
+249,Whitefield,Apartment,2,39500,1310,Semi-Furnished,"With 2 balconies","Mr. Ashok",9123450149
+250,Whitefield,Studio,1,20500,660,Fully-Furnished,"Includes weekly cleaning service","Ms. Prema",9123450150
+251,Marathahalli,Apartment,2,29000,1100,Semi-Furnished,"Lift, Power Backup","Mr. Khan",9123456785
+252,Marathahalli,Apartment,1,18000,650,Semi-Furnished,"Close to Outer Ring Road, Lift","Mr. Ahmed",9123456798
+253,Marathahalli,Apartment,3,35000,1400,Semi-Furnished,"Family friendly, near schools","Mrs. Begum",9123456817
+254,Marathahalli,Apartment,2,27000,1050,Unfurnished,"Affordable, close to main road","Mr. Yadav",9123456818
+255,Marathahalli,Studio,1,14000,500,Unfurnished,"Bachelor accommodation, basic","Mr. Shaikh",9123456819
+256,Marathahalli,Apartment,2,30000,1150,Fully-Furnished,"Includes TV, Fridge, Washing Machine","Ms. Gupta",9123456820
+257,Marathahalli,Apartment,3,38000,1500,Semi-Furnished,"Gated building, security guard","Mr. Singh",9123456821
+258,Marathahalli,Apartment,1,19000,700,Fully-Furnished,"Compact and clean, ready to occupy","Mrs. Ali",9123456822
+259,Marathahalli,Apartment,2,28000,1080,Semi-Furnished,"Near Kalamandir, good connectivity","Mr. Dubey",9123456823
+260,Marathahalli,Studio,1,15000,550,Semi-Furnished,"With attached bath and kitchen slab","Mr. Paul",9123456824
+261,Marathahalli,Apartment,3,36000,1450,Unfurnished,"Spacious, suitable for sharing","Ms. Sharma",9123456825
+262,Marathahalli,Apartment,2,31000,1200,Semi-Furnished,"Power backup, lift, parking","Mr. Chandra",9123456826
+263,Marathahalli,Apartment,1,20000,720,Semi-Furnished,"Decent size for a couple, balcony","Mrs. Mishra",9123456827
+264,Marathahalli,Apartment,2,26000,1000,Unfurnished,"Economical choice, near market","Mr. Sahu",9123456828
+265,Marathahalli,Apartment,3,40000,1600,Fully-Furnished,"All furniture and appliances included","Ms. Jha",9123456829
+266,Marathahalli,Studio,1,16000,580,Unfurnished,"Close to tech parks on ORR","Mr. Reddy",9123456830
+267,Marathahalli,Apartment,2,29500,1120,Semi-Furnished,"Good society, 24/7 water","Mrs. Kaur",9123456831
+268,Marathahalli,Apartment,3,37000,1480,Semi-Furnished,"With wardrobes and kitchen cabinets","Mr. Banerjee",9123456832
+269,Marathahalli,Apartment,2,28500,1090,Semi-Furnished,"Lift and security available","Ms. Das",9123456833
+270,Marathahalli,Apartment,1,18500,680,Fully-Furnished,"Neat and tidy, immediate occupancy","Mr. Anand",9123456834
+271,Marathahalli,Apartment,2,28000,1090,Semi-Furnished,"Near Innovative Multiplex","Mr. Sandeep",9123450151
+272,Marathahalli,Independent House,3,34000,1300,Unfurnished,"With a separate dining area","Mrs. Mehta",9123450152
+273,Marathahalli,Apartment,3,39000,1550,Semi-Furnished,"Close to Marathahalli bridge","Mr. Krishnan",9123450153
+274,Marathahalli,Studio,1,15000,520,Semi-Furnished,"Good for short term stay","Ms. Pooja",9123450154
+275,Marathahalli,Apartment,2,27500,1070,Unfurnished,"Basic flat, available for bachelors","Mr. Girish",9123450155
+276,Marathahalli,Apartment,3,36500,1420,Semi-Furnished,"Vastu compliant","Mrs. Shweta",9123450156
+277,Marathahalli,Independent House,2,32000,1200,Semi-Furnished,"With a small front porch","Mr. Balaji",9123450157
+278,Marathahalli,Apartment,1,19500,710,Fully-Furnished,"Includes basic electronics","Ms. Anusha",9123450158
+279,Marathahalli,Apartment,2,29000,1110,Semi-Furnished,"Family preferred building","Mrs. Divya",9123450159
+280,Marathahalli,Studio,1,14500,510,Unfurnished,"Affordable and basic","Mr. Naveen",9123450160
+281,Marathahalli,Apartment,3,38500,1520,Semi-Furnished,"Good for sharing between 3-4 people","Mrs. Lakshmi",9123450161
+282,Marathahalli,Apartment,2,31500,1220,Fully-Furnished,"Well-maintained furniture","Ms. Ramya",9123450162
+283,Marathahalli,Independent House,3,37000,1400,Unfurnished,"Recently painted","Mr. Vinay",9123450163
+284,Marathahalli,Apartment,2,28000,1080,Semi-Furnished,"Near Yashomati Hospital","Ms. Sneha",9123450164
+285,Marathahalli,Apartment,3,39500,1580,Unfurnished,"Spacious rooms","Mr. Chetan",9123450165
+286,Marathahalli,Studio,1,16500,590,Fully-Furnished,"Modern studio","Ms. Shilpa",9123450166
+287,Marathahalli,Independent House,2,33000,1250,Semi-Furnished,"With covered car park","Mr. Santosh",9123450167
+288,Marathahalli,Apartment,3,37500,1490,Semi-Furnished,"Good security","Mrs. Geeta",9123450168
+289,Marathahalli,Apartment,2,32000,1250,Fully-Furnished,"High floor with good view","Mr. Manjunath",9123450169
+290,Marathahalli,Apartment,1,20500,730,Semi-Furnished,"Large 1BHK","Ms. Archana",9123450170
+291,Marathahalli,Apartment,2,28000,1090,Semi-Furnished,"Close to the market","Mr. Kiran",9123450171
+292,Marathahalli,Independent House,3,36000,1450,Unfurnished,"With a modular kitchen","Mrs. Suma",9123450172
+293,Marathahalli,Apartment,4,45000,1800,Semi-Furnished,"Large apartment for a big family","Mr. Rajesh",9123450173
+294,Marathahalli,Studio,1,15500,540,Semi-Furnished,"Clean and simple","Ms. Deepa",9123450174
+295,Marathahalli,Apartment,2,29000,1100,Semi-Furnished,"Ideal for small families","Mr. Praveen",9123450175
+296,Marathahalli,Apartment,3,38000,1500,Semi-Furnished,"Close to VIMS Hospital","Mrs. Usha",9123450176
+297,Marathahalli,Independent House,2,34000,1300,Fully-Furnished,"Charming house","Mr. Ravi",9123450177
+298,Marathahalli,Apartment,1,17500,640,Unfurnished,"Basic 1BHK","Ms. Rashmi",9123450178
+299,Marathahalli,Apartment,2,30500,1150,Semi-Furnished,"With 2 balconies","Mr. Ashok",9123450179
+300,Marathahalli,Studio,1,17000,600,Fully-Furnished,"Includes cleaning","Ms. Prema",9123450180
+301,Electronic City,Apartment,2,24000,1050,Semi-Furnished,"Security, Gym, Pool","Mr. Patel",9123456786
+302,Electronic City,Apartment,3,32000,1400,Semi-Furnished,"Clubhouse, Security, Near Wipro Gate","Mrs. Das",9123456799
+303,Electronic City,Apartment,1,15000,650,Fully-Furnished,"Ideal for bachelors working in Infosys","Mr. Kumar",9123456835
+304,Electronic City,Apartment,2,22000,1000,Unfurnished,"Affordable and spacious, near Toll Gate","Ms. Sinha",9123456836
+305,Electronic City,Apartment,3,35000,1500,Semi-Furnished,"In a large gated community, all amenities","Mr. Murthy",9123456837
+306,Electronic City,Studio,1,12000,500,Semi-Furnished,"Basic, with kitchenette","Mr. Rajan",9123456838
+307,Electronic City,Apartment,2,25000,1100,Fully-Furnished,"Includes all electronics, ready to move","Mrs. Gupta",9123456839
+308,Electronic City,Apartment,1,14000,600,Unfurnished,"Good for single occupancy, secure building","Ms. Agarwal",9123456840
+309,Electronic City,Apartment,3,34000,1450,Semi-Furnished,"Power backup, lift, security","Mr. Sharma",9123456841
+310,Electronic City,Apartment,2,26000,1150,Semi-Furnished,"Near Hebbagodi, good connectivity","Mrs. Chavan",9123456842
+311,Electronic City,Villa,4,60000,2500,Semi-Furnished,"Independent villa in a society, garden","Mr. Mehta",9123456843
+312,Electronic City,Apartment,1,16000,700,Semi-Furnished,"Spacious 1BHK, with balcony","Ms. Rao",9123456844
+313,Electronic City,Apartment,2,23000,1080,Unfurnished,"Well-maintained building, 24/7 water","Mr. Iyer",9123456845
+314,Electronic City,Apartment,3,36000,1550,Fully-Furnished,"Tastefully furnished, includes maintenance","Mrs. Krishnan",9123456846
+315,Electronic City,Studio,1,13000,520,Unfurnished,"Most affordable option, basic amenities","Mr. Singh",9123456847
+316,Electronic City,Apartment,2,27000,1200,Semi-Furnished,"Gym, Pool, Near TCS office","Ms. Bose",9123456848
+317,Electronic City,Apartment,3,33000,1420,Semi-Furnished,"Good for families, near schools","Mr. Jain",9123456849
+318,Electronic City,Apartment,1,15500,680,Fully-Furnished,"Compact, all inclusive rent","Mrs. Reddy",9123456850
+319,Electronic City,Apartment,2,24500,1120,Semi-Furnished,"Lift, Security","Mr. Prasad",9123456851
+320,Electronic City,Apartment,2,25500,1140,Unfurnished,"New building, ready for occupancy","Ms. Menon",9123456852
+321,Electronic City,Apartment,2,23500,1070,Semi-Furnished,"Close to Tech Mahindra","Mr. Sandeep",9123450181
+322,Electronic City,Villa,3,55000,2200,Semi-Furnished,"In a quiet villa community","Mrs. Mehta",9123450182
+323,Electronic City,Apartment,3,34000,1480,Semi-Furnished,"Good society for families","Mr. Krishnan",9123450183
+324,Electronic City,Studio,1,12500,510,Fully-Furnished,"Basic furnishings included","Ms. Pooja",9123450184
+325,Electronic City,Apartment,2,22500,1020,Unfurnished,"Affordable 2BHK option","Mr. Girish",9123450185
+326,Electronic City,Apartment,3,35500,1520,Semi-Furnished,"East facing, Vastu compliant","Mrs. Shweta",9123450186
+327,Electronic City,Villa,3,58000,2300,Unfurnished,"With a private terrace","Mr. Balaji",9123450187
+328,Electronic City,Apartment,1,14500,620,Fully-Furnished,"Includes Wi-Fi","Ms. Anusha",9123450188
+329,Electronic City,Apartment,2,24000,1100,Semi-Furnished,"Near upcoming metro station","Mrs. Divya",9123450189
+330,Electronic City,Studio,1,11000,480,Unfurnished,"Most basic and cheapest option","Mr. Naveen",9123450190
+331,Electronic City,Apartment,3,37000,1600,Semi-Furnished,"Large society with all amenities","Mrs. Lakshmi",9123450191
+332,Electronic City,Apartment,2,28000,1250,Fully-Furnished,"Top floor with good view","Ms. Ramya",9123450192
+333,Electronic City,Villa,4,62000,2600,Unfurnished,"Newly constructed villa","Mr. Vinay",9123450193
+334,Electronic City,Apartment,2,25000,1130,Semi-Furnished,"Close to Siemens","Ms. Sneha",9123450194
+335,Electronic City,Apartment,3,36000,1580,Unfurnished,"Penthouse apartment","Mr. Chetan",9123450195
+336,Electronic City,Studio,1,13500,550,Fully-Furnished,"Modern studio","Ms. Shilpa",9123450196
+337,Electronic City,Villa,3,59000,2400,Semi-Furnished,"With covered parking","Mr. Santosh",9123450197
+338,Electronic City,Apartment,3,35000,1500,Semi-Furnished,"Good security","Mrs. Geeta",9123450198
+339,Electronic City,Apartment,2,29000,1280,Fully-Furnished,"Premium furnishings","Mr. Manjunath",9123450199
+340,Electronic City,Apartment,1,16500,720,Semi-Furnished,"Large 1BHK","Ms. Archana",9123450200
+341,Electronic City,Apartment,2,24000,1100,Semi-Furnished,"Near main road","Mr. Kiran",9123450201
+342,Electronic City,Villa,4,61000,2550,Unfurnished,"With modular kitchen","Mrs. Suma",9123450202
+343,Electronic City,Apartment,3,38000,1650,Fully-Furnished,"Spacious and well-lit","Mr. Rajesh",9123450203
+344,Electronic City,Studio,1,12800,530,Semi-Furnished,"Clean and simple","Ms. Deepa",9123450204
+345,Electronic City,Apartment,2,23000,1050,Semi-Furnished,"Good for bachelors","Mr. Praveen",9123450205
+346,Electronic City,Apartment,3,37000,1600,Semi-Furnished,"Near Symbiosis","Mrs. Usha",9123450206
+347,Electronic City,Villa,3,60000,2500,Fully-Furnished,"Beautifully decorated","Mr. Ravi",9123450207
+348,Electronic City,Apartment,1,14000,630,Unfurnished,"Basic 1BHK","Ms. Rashmi",9123450208
+349,Electronic City,Apartment,2,26500,1180,Semi-Furnished,"With 2 balconies","Mr. Ashok",9123450209
+350,Electronic City,Studio,1,13800,560,Fully-Furnished,"Includes cleaning","Ms. Prema",9123450210
+351,JP Nagar,Apartment,2,35000,1200,Semi-Furnished,"Near JP Nagar Metro, Lift, Security","Mr. Sandeep",9123456853
+352,JP Nagar,Apartment,3,48000,1600,Fully-Furnished,"Pool, Gym, Clubhouse","Mrs. Vidya",9123456854
+353,JP Nagar,Independent House,4,75000,2500,Unfurnished,"Garden, Terrace, Pet-Friendly","Mr. Prakash",9123456855
+354,JP Nagar,Studio,1,18000,550,Semi-Furnished,"Compact, for single professional","Ms. Kavita",9123456856
+355,JP Nagar,Apartment,3,52000,1700,Semi-Furnished,"Gated Community, Power Backup","Mr. Harish",9123456857
+356,JP Nagar,Apartment,2,38000,1250,Fully-Furnished,"Ready to move, all inclusive","Mrs. Shweta",9123456858
+357,JP Nagar,Independent House,3,65000,2000,Semi-Furnished,"Duplex, Car Parking, Balcony","Mr. Girish",9123456859
+358,JP Nagar,Apartment,1,22000,750,Fully-Furnished,"Stylish and modern, near Ranga Shankara","Ms. Pooja",9123456860
+359,JP Nagar,Apartment,2,36000,1150,Unfurnished,"New Building, Good Light and Ventilation","Mrs. Divya",9123456861
+360,JP Nagar,Studio,1,17000,500,Unfurnished,"Basic, For Bachelors","Mr. Naveen",9123456862
+361,JP Nagar,Apartment,3,55000,1800,Fully-Furnished,"All amenities, Ready to move in","Mrs. Lakshmi",9123456863
+362,JP Nagar,Apartment,2,39000,1280,Semi-Furnished,"Near Sarakki Lake, Security","Ms. Anusha",9123456864
+363,JP Nagar,Independent House,5,98000,3200,Semi-Furnished,"Spacious, For Large Families or Company Guest House","Mr. Balaji",9123456865
+364,JP Nagar,Apartment,2,37000,1260,Semi-Furnished,"Lift, Security","Ms. Sneha",9123456866
+365,JP Nagar,Apartment,3,53000,1650,Unfurnished,"Bright and Airy, 2 Balconies","Mr. Chetan",9123456867
+366,JP Nagar,Studio,1,19000,600,Fully-Furnished,"Includes all bills, flexible deposit","Ms. Ramya",9123456868
+367,JP Nagar,Independent House,2,43000,1500,Semi-Furnished,"Ground floor with small garden","Mr. Vinay",9123456869
+368,JP Nagar,Apartment,3,57000,1750,Semi-Furnished,"Pool view, Gym, Clubhouse","Mrs. Geeta",9123456870
+369,JP Nagar,Apartment,2,38000,1220,Semi-Furnished,"Near 24th Main Road, Good Connectivity","Mr. Manjunath",9123456871
+370,JP Nagar,Apartment,1,23000,750,Fully-Furnished,"Compact and modern, for singles/couples","Ms. Shilpa",9123456872
+371,JP Nagar,Apartment,2,34000,1180,Unfurnished,"Spacious hall, good for families","Mr. Santosh",9123456873
+372,JP Nagar,Apartment,3,50000,1620,Semi-Furnished,"Security, Power Backup","Mr. Kiran",9123456874
+373,JP Nagar,Independent House,4,80000,2600,Semi-Furnished,"Duplex house with terrace","Mrs. Suma",9123456875
+374,JP Nagar,Apartment,2,40000,1280,Fully-Furnished,"Modern interiors, near metro station","Ms. Deepa",9123456876
+375,JP Nagar,Apartment,3,51000,1550,Semi-Furnished,"Good construction quality, Lift","Mr. Rajesh",9123456877
+376,JP Nagar,Independent House,3,60000,1900,Unfurnished,"Ample parking, close to market","Mrs. Usha",9123456878
+377,JP Nagar,Apartment,2,36000,1180,Unfurnished,"Spacious hall, good for families","Mr. Ravi",9123456879
+378,JP Nagar,Apartment,1,24000,850,Fully-Furnished,"Includes all amenities, prime location","Ms. Archana",9123456880
+379,JP Nagar,Apartment,3,54000,1650,Semi-Furnished,"Security, Power Backup","Mr. Anand",9123456881
+380,JP Nagar,Studio,1,16000,480,Unfurnished,"Affordable, basic amenities","Mr. Sunil",9123456882
+381,JP Nagar,Apartment,2,37500,1240,Semi-Furnished,"With Pooja room, Kaveri water","Mrs. Poornima",9123456883
+382,JP Nagar,Independent House,5,110000,3400,Semi-Furnished,"Mansion-like, with lawn and servant quarters","Mr. Srinivas",9123456884
+383,JP Nagar,Apartment,2,39500,1230,Semi-Furnished,"Gated society, 24/7 security","Mr. Madhu",9123456885
+384,JP Nagar,Independent House,4,78000,2550,Semi-Furnished,"Duplex house with terrace","Mrs. Roopa",9123456886
+385,JP Nagar,Apartment,2,41500,1290,Fully-Furnished,"Modern interiors, near metro station","Ms. Swati",9123456887
+386,JP Nagar,Apartment,3,52500,1680,Semi-Furnished,"Good construction quality, Lift","Mr. Praveen",9123456888
+387,JP Nagar,Independent House,3,58000,1950,Unfurnished,"Ample parking, close to market","Mrs. Rekha",9123456889
+388,JP Nagar,Apartment,2,37000,1190,Unfurnished,"Spacious hall, good for families","Mr. Karthik",9123456890
+389,JP Nagar,Apartment,1,25000,860,Fully-Furnished,"Includes all amenities, prime location","Ms. Rashmi",9123456891
+390,JP Nagar,Apartment,3,53000,1630,Semi-Furnished,"Security, Power Backup","Mr. Ashok",9123456892
+391,JP Nagar,Studio,1,17500,520,Semi-Furnished,"Compact, for single professional","Ms. Prema",9123456893
+392,JP Nagar,Apartment,2,38500,1210,Semi-Furnished,"Near JP Nagar Metro, Lift, Security","Mr. Mohan",9123456894
+393,JP Nagar,Apartment,3,49000,1610,Fully-Furnished,"Pool, Gym, Clubhouse","Mrs. Shobha",9123456895
+394,JP Nagar,Independent House,4,76000,2520,Unfurnished,"Garden, Terrace, Pet-Friendly","Mr. Suresh",9123456896
+395,JP Nagar,Studio,1,18500,560,Semi-Furnished,"Compact, for single professional","Ms. Anjali",9123456897
+396,JP Nagar,Apartment,3,51000,1720,Semi-Furnished,"Gated Community, Power Backup","Mr. Mahesh",9123456898
+397,JP Nagar,Apartment,2,39000,1260,Fully-Furnished,"Ready to move, all inclusive","Mrs. Savita",9123456899
+398,JP Nagar,Independent House,3,66000,2050,Semi-Furnished,"Duplex, Car Parking, Balcony","Mr. Lokesh",9123456900
+399,JP Nagar,Apartment,1,23000,760,Fully-Furnished,"Stylish and modern, near Ranga Shankara","Ms. Anita",9123456901
+400,JP Nagar,Apartment,2,37000,1160,Unfurnished,"New Building, Good Light and Ventilation","Mrs. Sunitha",9123456902
+401,Majestic,Room,1,8000,200,Unfurnished,"Single Room, Shared Bathroom, Near Bus Stand","Mr. Ali",9123456903
+402,Majestic,Independent House,2,15000,600,Unfurnished,"Old building, congested lane, near City Market","Mr. Khan",9123456904
+403,Majestic,Room,1,9000,250,Semi-Furnished,"Room with attached bath, for bachelors","Mr. Ram",9123456905
+404,Majestic,Independent House,1,12000,450,Semi-Furnished,"Ground floor, basic amenities, near Railway Station","Mr. Kumar",9123456906
+405,Majestic,Room,1,8500,220,Unfurnished,"Lodge-style room for long term rent","Mr. Hussain",9123456907
+406,Majestic,Independent House,2,16000,650,Unfurnished,"In Gandhinagar area, close to Majestic","Mr. Murthy",9123456908
+407,Majestic,Room,1,9500,280,Semi-Furnished,"Slightly larger room, with fan and light","Mr. Joseph",9123456909
+408,Majestic,Independent House,1,13000,500,Unfurnished,"Basic 1BHK setup, in a commercial building","Mr. David",9123456910
+409,Majestic,Room,1,8200,210,Unfurnished,"For single person working in the market","Mr. Peter",9123456911
+410,Majestic,Independent House,2,15500,620,Unfurnished,"Near Upparpete Police Station","Mr. Syed",9123456912
+411,Majestic,Room,1,9200,260,Semi-Furnished,"With cot and table, shared toilet","Mr. Krishna",9123456913
+412,Majestic,Independent House,1,12500,480,Unfurnished,"In a busy market street","Mr. Babu",9123456914
+413,Majestic,Room,1,8800,240,Unfurnished,"Basic room, long term stay only","Mr. John",9123456915
+414,Majestic,Independent House,2,16500,680,Unfurnished,"Older construction, walkable from bus station","Mr. Ravi",9123456916
+415,Majestic,Room,1,9800,300,Semi-Furnished,"Room with window, better ventilation","Mr. Shankar",9123456917
+416,Majestic,Independent House,1,13500,520,Semi-Furnished,"With basic kitchen setup","Mr. Anand",9123456918
+417,Majestic,Room,1,8600,230,Unfurnished,"Affordable room for daily wage workers","Mr. Velu",9123456919
+418,Majestic,Independent House,2,17000,700,Unfurnished,"Top floor of an old building","Mr. Mani",9123456920
+419,Majestic,Room,1,10000,320,Semi-Furnished,"Slightly better room with attached toilet","Mr. Gopal",9123456921
+420,Majestic,Independent House,1,14000,550,Unfurnished,"Near Ananda Rao Circle","Mr. Prakash",9123456922
+421,Majestic,Room,1,8400,215,Unfurnished,"Smallest and cheapest option","Mr. Selvam",9123456923
+422,Majestic,Independent House,2,16200,660,Unfurnished,"In a bylane near the railway track","Mr. Raja",9123456924
+423,Majestic,Room,1,9600,290,Semi-Furnished,"With a small balcony facing the street","Mr. Suresh",9123456925
+424,Majestic,Independent House,1,13200,510,Unfurnished,"Basic amenities","Mr. Dinesh",9123456926
+425,Majestic,Room,1,8900,250,Unfurnished,"Shared accommodation style room","Mr. Vinod",9123456927
+426,Majestic,Independent House,2,15800,640,Unfurnished,"Close to Freedom Park","Mr. Ashok",9123456928
+427,Majestic,Room,1,9400,270,Semi-Furnished,"With a bed and a small cupboard","Mr. Mohan",9123456929
+428,Majestic,Independent House,1,12800,490,Unfurnished,"In a crowded residential pocket","Mr. Rajesh",9123456930
+429,Majestic,Room,1,8700,235,Unfurnished,"Long term rental in a budget lodge","Mr. Karthik",9123456931
+430,Majestic,Independent House,2,16800,690,Unfurnished,"Near Chickpet market area","Mr. Ramesh",9123456932
+431,Majestic,Room,1,9900,310,Semi-Furnished,"Best available room in the area","Mr. Mahesh",9123456933
+432,Majestic,Independent House,1,13800,540,Unfurnished,"Near SC Road","Mr. Santosh",9123456934
+433,Majestic,Room,1,8300,212,Unfurnished,"Basic shelter","Mr. Sunil",9123456935
+434,Majestic,Independent House,2,16600,670,Unfurnished,"Among wholesale shops","Mr. Praveen",9123456936
+435,Majestic,Room,1,9700,295,Semi-Furnished,"With attached western toilet","Mr. Lokesh",9123456937
+436,Majestic,Independent House,1,13600,530,Unfurnished,"Basic house","Mr. Girish",9123456938
+437,Majestic,Room,1,9100,255,Unfurnished,"Shared bathroom","Mr. Chetan",9123456939
+438,Majestic,Independent House,2,15900,650,Unfurnished,"Near Kalasipalyam","Mr. Madhu",9123456940
+439,Majestic,Room,1,9300,265,Semi-Furnished,"With a fan","Mr. Kiran",9123456941
+440,Majestic,Independent House,1,12900,500,Unfurnished,"Basic","Mr. Harish",9123456942
+441,Majestic,Room,1,8100,205,Unfurnished,"Cheapest option","Mr. Naveen",9123456943
+442,Majestic,Independent House,2,16100,655,Unfurnished,"Near City Railway Station back gate","Mr. Vinay",9123456944
+443,Majestic,Room,1,9550,285,Semi-Furnished,"With a small window","Mr. Manjunath",9123456945
+444,Majestic,Independent House,1,13100,505,Unfurnished,"Basic","Mr. Ravi",9123456946
+445,Majestic,Room,1,8950,245,Unfurnished,"Basic","Mr. Ashok",9123456947
+446,Majestic,Independent House,2,15700,635,Unfurnished,"Basic","Mr. Mohan",9123456948
+447,Majestic,Room,1,9350,275,Semi-Furnished,"Basic","Mr. Rajesh",9123456949
+448,Majestic,Independent House,1,12700,495,Unfurnished,"Basic","Mr. Karthik",9123456950
+449,Majestic,Room,1,8750,238,Unfurnished,"Basic","Mr. Ramesh",9123456951
+450,Majestic,Independent House,2,16900,695,Unfurnished,"Basic","Mr. Mahesh",9123456952
+451,Nagasandra,Apartment,2,15000,800,Semi-Furnished,"Near Nagasandra Metro, Lift","Mr. Kumar",9123456953
+452,Nagasandra,Independent House,2,12000,900,Unfurnished,"Spacious, near Peenya Industrial Area","Mr. Gowda",9123456954
+453,Nagasandra,Apartment,1,9000,500,Semi-Furnished,"Compact, for bachelors","Mr. Prasad",9123456955
+454,Nagasandra,Independent House,3,18000,1200,Unfurnished,"With parking space, near Tumkur Road","Mr. Murthy",9123456956
+455,Nagasandra,Apartment,2,16000,850,Fully-Furnished,"Ready to move, with basic furniture","Mrs. Lakshmi",9123456957
+456,Nagasandra,Independent House,1,8000,450,Unfurnished,"Affordable, basic amenities","Mr. Raju",9123456958
+457,Nagasandra,Apartment,2,14000,750,Unfurnished,"New apartment building","Mr. Srinivas",9123456959
+458,Nagasandra,Independent House,2,13000,950,Semi-Furnished,"With wardrobes and kitchen cabinets","Mrs. Roopa",9123456960
+459,Nagasandra,Apartment,1,9500,550,Semi-Furnished,"Good for single person","Mr. Santosh",9123456961
+460,Nagasandra,Independent House,3,19000,1300,Unfurnished,"With small garden area","Mr. Suresh",9123456962
+461,Nagasandra,Apartment,2,15500,820,Semi-Furnished,"With lift and 24/7 water supply","Mrs. Anitha",9123456963
+462,Nagasandra,Independent House,2,12500,920,Unfurnished,"Good ventilation","Mr. Mahesh",9123456964
+463,Nagasandra,Apartment,1,8500,480,Unfurnished,"Most economical choice","Mr. Lokesh",9123456965
+464,Nagasandra,Independent House,3,20000,1400,Semi-Furnished,"Spacious hall and bedrooms","Mrs. Savitha",9123456966
+465,Nagasandra,Apartment,2,16500,880,Fully-Furnished,"Includes bed, table, and chairs","Mr. Girish",9123456967
+466,Nagasandra,Independent House,1,8200,460,Unfurnished,"Basic house","Mr. Chetan",9123456968
+467,Nagasandra,Apartment,2,14500,780,Semi-Furnished,"Near metro station","Mrs. Sunitha",9123456969
+468,Nagasandra,Independent House,2,13500,980,Unfurnished,"With separate utility area","Mr. Madhu",9123456970
+469,Nagasandra,Apartment,1,9200,520,Semi-Furnished,"With kitchen setup","Mr. Kiran",9123456971
+470,Nagasandra,Independent House,3,21000,1500,Unfurnished,"Large house for a big family","Mr. Harish",9123456972
+471,Nagasandra,Apartment,2,15800,840,Semi-Furnished,"With security","Mrs. Poornima",9123456973
+472,Nagasandra,Independent House,2,12800,930,Unfurnished,"Basic","Mr. Naveen",9123456974
+473,Nagasandra,Apartment,1,8800,490,Unfurnished,"Basic","Mr. Vinay",9123456975
+474,Nagasandra,Independent House,3,19500,1350,Semi-Furnished,"With car parking","Mrs. Rekha",9123456976
+475,Nagasandra,Apartment,2,16200,860,Fully-Furnished,"Basic furniture included","Mr. Manjunath",9123456977
+476,Nagasandra,Independent House,1,8400,470,Unfurnished,"Basic","Mr. Ravi",9123456978
+477,Nagasandra,Apartment,2,14800,790,Semi-Furnished,"Near main road","Mrs. Shobha",9123456979
+478,Nagasandra,Independent House,2,13200,960,Unfurnished,"Basic","Mr. Ashok",9123456980
+479,Nagasandra,Apartment,1,9400,530,Semi-Furnished,"Basic","Mr. Mohan",9123456981
+480,Nagasandra,Independent House,3,20500,1450,Unfurnished,"Basic","Mr. Rajesh",9123456982
+481,Nagasandra,Apartment,2,15600,830,Semi-Furnished,"Basic","Mrs. Geeta",9123456983
+482,Nagasandra,Independent House,2,12900,940,Unfurnished,"Basic","Mr. Karthik",9123456984
+483,Nagasandra,Apartment,1,8900,510,Unfurnished,"Basic","Mr. Ramesh",9123456985
+484,Nagasandra,Independent House,3,19800,1380,Semi-Furnished,"Basic","Mrs. Usha",9123456986
+485,Nagasandra,Apartment,2,16400,870,Fully-Furnished,"Basic","Mr. Mahesh",9123456987
+486,Nagasandra,Independent House,1,8600,480,Unfurnished,"Basic","Mr. Santosh",9123456988
+487,Nagasandra,Apartment,2,14900,800,Semi-Furnished,"Basic","Mrs. Savita",9123456989
+488,Nagasandra,Independent House,2,13400,970,Unfurnished,"Basic","Mr. Sunil",9123456990
+489,Nagasandra,Apartment,1,9300,540,Semi-Furnished,"Basic","Mr. Praveen",9123456991
+490,Nagasandra,Independent House,3,20800,1480,Unfurnished,"Basic","Mrs. Roopa",9123456992
+491,Nagasandra,Apartment,2,15900,850,Semi-Furnished,"Basic","Mr. Lokesh",9123456993
+492,Nagasandra,Independent House,2,13100,950,Unfurnished,"Basic","Mr. Girish",9123456994
+493,Nagasandra,Apartment,1,8700,490,Unfurnished,"Basic","Mr. Chetan",9123456995
+494,Nagasandra,Independent House,3,19600,1360,Semi-Furnished,"Basic","Mrs. Swati",9123456996
+495,Nagasandra,Apartment,2,16300,870,Fully-Furnished,"Basic","Mr. Manjunath",9123456997
+496,Nagasandra,Independent House,1,8300,470,Unfurnished,"Basic","Mr. Ravi",9123456998
+497,Nagasandra,Apartment,2,14700,790,Semi-Furnished,"Basic","Mrs. Shobha",9123456999
+498,Nagasandra,Independent House,2,13300,960,Unfurnished,"Basic","Mr. Ashok",9123457000
+499,Nagasandra,Apartment,1,9100,530,Semi-Furnished,"Basic","Mr. Mohan",9123457001
+500,Nagasandra,Independent House,3,20600,1460,Unfurnished,"Basic","Mr. Rajesh",9123457002

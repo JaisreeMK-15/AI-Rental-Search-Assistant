@@ -1,0 +1,18 @@
+# Environment variables
+# Never commit this file!
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific
+.vscode/
+.idea/
+
+# --- NEW: FAISS Index ---
+# This folder is generated automatically from your data and can be large.
+# It should not be committed to version control.
+faiss_index/
